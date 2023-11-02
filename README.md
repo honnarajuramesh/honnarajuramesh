@@ -5,12 +5,12 @@ React.js, Next.js, Node.js, MongoDB, and React Native. I'm dedicated to creating
 
 👨‍💻 Here's a quick overview of my skills and expertise:
 
-- Frontend Development: &nbsp;&nbsp; **[Next.js]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[React.js]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[TypeScript]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[tailwind css]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[HTML]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[CSS]()**
-- Backend Development: &nbsp;&nbsp; **[Node.js]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[Express.js]()**
-- Database:  &nbsp;&nbsp;**[MongoDB]()**
-- Mobile Development:  &nbsp;&nbsp;**[React Native]()**
-- Version Control: &nbsp;&nbsp; **[Git]()**
--  &nbsp;&nbsp;**[Data structures and Algorithms]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[UI/UX Principles]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[RESTful APIs]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[GraphQL]()**
+- Frontend Development: &nbsp;&nbsp; **[Next.js](https://nextjs.org/)**,&nbsp;&nbsp;&nbsp;&nbsp;**[React.js](https://react.dev/)**,&nbsp;&nbsp;&nbsp;&nbsp;**[TypeScript](https://www.typescriptlang.org/)**,&nbsp;&nbsp;&nbsp;&nbsp;**[tailwind css](https://tailwindcss.com/)**,&nbsp;&nbsp;&nbsp;&nbsp;**[HTML]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[CSS]()**
+- Backend Development: &nbsp;&nbsp; **[Node.js](https://nodejs.org/en)**,&nbsp;&nbsp;&nbsp;&nbsp;**[Express.js](https://expressjs.com/)**
+- Database:  &nbsp;&nbsp;**[MongoDB](https://www.mongodb.com/)**
+- Mobile Development:  &nbsp;&nbsp;**[React Native](https://reactnative.dev/)**
+- Version Control: &nbsp;&nbsp; **[Git](https://git-scm.com/)**
+-  &nbsp;&nbsp;**[Data structures and Algorithms]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[UI/UX Principles]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[RESTful APIs]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[GraphQL](https://graphql.org/)**
 
 ## Projects
 
