@@ -5,12 +5,12 @@ React.js, Next.js, Node.js, MongoDB, and React Native. I'm dedicated to creating
 
 👨‍💻 Here's a quick overview of my skills and expertise:
 
-- Frontend Development: &nbsp;&nbsp; **Next.js**,&nbsp;&nbsp;&nbsp;&nbsp;**React.js**,&nbsp;&nbsp;&nbsp;&nbsp;**TypeScript**,&nbsp;&nbsp;&nbsp;&nbsp;**tailwind css**,&nbsp;&nbsp;&nbsp;&nbsp;**HTML**,&nbsp;&nbsp;&nbsp;&nbsp;**CSS**
-- Backend Development: &nbsp;&nbsp; **Node.js**,&nbsp;&nbsp;&nbsp;&nbsp;**Express.js**
-- Database:  &nbsp;&nbsp;**MongoDB**
-- Mobile Development:  &nbsp;&nbsp;**React Native**
-- Version Control: &nbsp;&nbsp; **Git**
--  &nbsp;&nbsp;**Data structures and Algorithms**,&nbsp;&nbsp;&nbsp;&nbsp;**UI/UX Principles**,&nbsp;&nbsp;&nbsp;&nbsp;**RESTful APIs**,&nbsp;&nbsp;&nbsp;&nbsp;**GraphQL**
+- Frontend Development: &nbsp;&nbsp; **[Next.js]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[React.js]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[TypeScript]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[tailwind css]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[HTML]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[CSS]()**
+- Backend Development: &nbsp;&nbsp; **[Node.js]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[Express.js]()**
+- Database:  &nbsp;&nbsp;**[MongoDB]()**
+- Mobile Development:  &nbsp;&nbsp;**[React Native]()**
+- Version Control: &nbsp;&nbsp; **[Git]()**
+-  &nbsp;&nbsp;**[Data structures and Algorithms]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[UI/UX Principles]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[RESTful APIs]()**,&nbsp;&nbsp;&nbsp;&nbsp;**[GraphQL]()**
 
 ## Projects
 
